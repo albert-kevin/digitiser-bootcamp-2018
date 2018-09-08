@@ -1,0 +1,1 @@
+cp -R /home/ubuntu/neo4j-community-3.4.7/data/databases/* /home/ubuntu/git/digitiser-bootcamp-2018/neo4j-digityser-database/
